@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculatrice Simple</string>
+    <string name="add">Ajouter</string>
+    <string name="answer_here">Réponse ici</string>
+    <string name="clear">Effacer</string>
+    <string name="divide">Diviser</string>
+    <string name="enter_hint">Numéro svp</string>
+    <string name="multiply">Multiplication</string>
+    <string name="subtract">Substraction</string>
+</resources>
